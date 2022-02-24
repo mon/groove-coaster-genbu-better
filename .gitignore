@@ -1,0 +1,15 @@
+firmware/openocd
+groovin/gerbers/groovin-B_Cu.gbr
+groovin/gerbers/groovin-B_Mask.gbr
+groovin/gerbers/groovin-B_Paste.gbr
+groovin/gerbers/groovin-B_SilkS.gbr
+groovin/gerbers/groovin-Edge_Cuts.gbr
+groovin/gerbers/groovin-F_Cu.gbr
+groovin/gerbers/groovin-F_Mask.gbr
+groovin/gerbers/groovin-F_Paste.gbr
+groovin/gerbers/groovin-F_SilkS.gbr
+groovin/gerbers/groovin-job.gbrjob
+groovin/gerbers/groovin.drl
+groovin/groovin.sch-bak
+groovin/groovin.kicad_pcb-bak
+groovin/fet_driver.sch-bak
